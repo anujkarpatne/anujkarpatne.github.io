@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor in <a href='https://cs.vt.edu/'>CS@VT</a> &middot; AI &#8644; Science &middot; Knowledge-guided ML
+subtitle: Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @ Virginia Tech</a> | AI &#8644; Science | Knowledge-guided ML
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: AK_pic_2021.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
