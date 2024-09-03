@@ -6,11 +6,10 @@ subtitle: Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @
 
 profile:
   align: right
-  image: AK_pic2.jpg
+  image: AK_pic_2021_v2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: D&DS Building 438 </p>
-    <p><a href='https://cs.vt.edu/'>CV</a></p>
+    <p>Address: <a href='https://www.vt.edu/about/locations/buildings/data-and-decision-sciences.html'>D&DS Building</a> 438 </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
