@@ -6,7 +6,7 @@ subtitle: Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @
 
 profile:
   align: right
-  image: AK_pic_2021.jpg
+  image: AK_pic_2021_1mb.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
