@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor in <a href='https://cs.vt.edu/'>CS</a> @ <a href='https://www.vt.edu/'>VT</a> &#x25CF; AI &#8644; Science &#x25CF; Knowledge-guided ML
+subtitle: Associate Professor in <a href='https://cs.vt.edu/'>CS@VT</a> &middot; AI &#8644; Science &middot; Knowledge-guided ML
 
 profile:
   align: right
