@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor in [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://www.vt.edu/). | AI for Science | Knowledge-guided ML
+subtitle: Associate Professor in <a href='https://cs.vt.edu/'>CS</a> @ <a href='https://www.vt.edu/'>VT</a> &#x25CF; AI &#8644; Science &#x25CF; Knowledge-guided ML
 
 profile:
   align: right
