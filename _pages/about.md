@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Associate Professor in [Department of Computer Science](https://cs.vt.edu/) at [Virginia Tech](https://www.vt.edu/). | AI for Science | Knowledge-guided ML
 
 profile:
   align: right
