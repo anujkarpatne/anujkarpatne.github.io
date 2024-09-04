@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @ Virginia Tech</a> | AI &#8644; Science | Knowledge-guided ML
+subtitle: Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @ Virginia Tech</a> &#9702; AI &#8644; Science &#9702; Knowledge-guided ML
 
 profile:
   align: right
-  image: AK_pic_2021_v2.jpg
+  image: AK_VT_pic3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Address: <a href='https://www.vt.edu/about/locations/buildings/data-and-decision-sciences.html'>D&DS Building</a> 438 </p>
