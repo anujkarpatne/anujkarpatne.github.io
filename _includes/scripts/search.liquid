@@ -520,6 +520,16 @@
             },
           },
         {%- endif -%}
+        {%- if site.cv_file -%}
+          {
+            id: 'socials-cv',
+            title: 'CV',
+            section: 'Socials',
+            handler: () => {
+              window.open("{{ site.cv_file }}", "_blank");
+            },
+          },
+        {%- endif -%}
         {%- if site.rss_icon -%}
           {
             id: 'socials-rss',
