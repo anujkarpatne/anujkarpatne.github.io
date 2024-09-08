@@ -9,7 +9,7 @@ profile:
   image: AK_VT_pic3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Address: <a href='https://www.vt.edu/about/locations/buildings/data-and-decision-sciences.html'>D&DS Building</a> 438 </p>
+    Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @ Virginia Tech</a> &#9702; AI &#8644; Science &#9702; Knowledge-guided ML # <p>Address: <a href='https://www.vt.edu/about/locations/buildings/data-and-decision-sciences.html'>D&DS Building</a> 438 </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
