@@ -2,15 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: # Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @ Virginia Tech</a> &#9702; AI &#8644; Science &#9702; Knowledge-guided ML
+subtitle: Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @ Virginia Tech</a> &#9702; AI &#8644; Science &#9702; Knowledge-guided ML
 
 profile:
   align: right
   image: AK_VT_pic3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @ Virginia Tech</a> &#9702; AI &#8644; Science &#9702; Knowledge-guided ML 
-    
+        
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
