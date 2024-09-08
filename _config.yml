@@ -109,7 +109,7 @@ work_url: # work page URL
 x_username: anujkarpatne # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
-cv_file: CV_Karpatne_Detailed.pdf
+cv_file: assets/pdf/CV_Karpatne_Detailed.pdf
 
 contact_note: >
   
