@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @ Virginia Tech</a> &#9702; AI &#8644; Science &#9702; Knowledge-guided ML
+subtitle: Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @ Virginia Tech</a> &#9679; Workks in AI &#8644; Science; Knowledge-guided ML
 
 profile:
   align: right
@@ -22,8 +22,10 @@ social: true # includes social icons at the bottom of the page
 
 --->
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello everyone! I am an Associate Professor in the Department of Computer Science at Virginia Tech, where I am also affiliated with the Sanghani Center for AI and Data Analytics. I joined as an Assistant Professor in 2018. Before that, I completed my PhD at the University of Minnesota.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research aims to push the boundaries of KGML. I am passionate about AI for Science and the role KGML can play in this. Have been organizing workshops. Funding. Publications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Loss functions. Architecture. Embedding. Hybrid.
+
+See our perspective article. Also, my tutorial video.
