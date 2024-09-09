@@ -8,7 +8,7 @@ profile:
   align: right
   image: AK_VT_pic3.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: Associate Professor in <a href='https://cs.vt.edu/'>Computer Science @ Virginia Tech</a> &#9679; Works in AI &#8644; Science &#9679; Building Knowledge-guided ML
         
 
 news: true # includes a list of news items
