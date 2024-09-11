@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /funding/
+title: Funding
 description:
 nav: true
 nav_order: 3
