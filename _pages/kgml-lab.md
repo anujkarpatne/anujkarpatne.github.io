@@ -5,6 +5,6 @@ permalink: /KGML-Lab
 redirect_to: https://kgml-lab.github.io/
 description: 
 nav: true
-nav_order: 3
+nav_order: 6
 horizontal: false
 ---
