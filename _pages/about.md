@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: Associate Professor in <a href='https://cs.vt.edu/'>CS @ VT</a> &#9679; Works in AI &#8644; Science &#9679; Building Knowledge-guided ML
+
 profile:
   align: right
   image: AK_VT_pic3.jpg
