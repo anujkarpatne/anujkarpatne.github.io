@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: *Research Focus:* <a href='https://cs.vt.edu/'>CS @ VT</a> &#9679; Works in AI &#8644; Science &#9679; Building Knowledge-guided ML
+subtitle: Works in AI &#8644; Science | Knowledge-guided ML
 
 profile:
   align: right
@@ -15,10 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello everyone! I am an Associate Professor in the Department at Computer Science at Virginia Tech (VT) where I lead the **Knowledge-guided Machine Learning** Lab ([<img src="/assets/img/logo.jpg" alt="KGML-Lab Logo" style="width:42px;">KGML-Lab](https://kgml-lab.github.io/)). I joined VT as an Assistant Professor in 2018 and got tenured in 2023. Before that, I was a PhD student at the University of Minnesota working with Prof. Vipin Kumar on the Climate Change Expeditions project. This exposed me to problems in science where there is a wealth of knowledge.
+Hi, I am an Associate Professor in the Department at Computer Science at Virginia Tech (VT) where I lead the [<img src="/assets/img/logo.jpg" alt="KGML-Lab Logo" style="width:42px;">**Knowledge-guided Machine Learning (KGML) Lab**](https://kgml-lab.github.io/). I joined VT in 2018 as an Assistant Professor and received tenure in 2023. Before that, I was a PhD student at the University of Minnesota working with [Prof. Vipin Kumar](https://www-users.cse.umn.edu/~kumar001/) on understanding climate change using data-driven approaches. This exposed me to problems in science where there is a wealth of *scientific knowledge* available to be incorporated in machine learning (ML) algorithms to go beyond &quot;black-box&quot; applications of ML in science, giving rise to a new field of *knowledge-guided ML* (KGML).
 
-Did my PhD in 2017 at UMN with Vipin Kumar. Climate Change problems. I also got the opportunity to work on the text book. Got introduced to problems in science where there is wealth of knowledge in the form of models, equations, how these models can be used to improve ML performance. This is what gave rise to KGML. Aftger joining VT in 2018. I got to build the foundations of this emerging paradigm not just for climate science but many other disciplines, laying down its different research themes. This area has seen tremendous growth in the last 6 years. I am grateful to all the collaborations I could build with experts from diverse domains and institutions who have made it possible to build the research themes of this nascent discipline, and to the support from NSF for my projects.
+My research vision is to establish KGML as a thriving area of research that serves as a nucleus for foundational innovations in AI/ML to produce *scientifically grounded*, *explainable*, and *generalizable* predictions, driven by real-world use-cases in *inter-disicplinary problems* of high societal relevance. My research has contributed several themes of research in KGML for incorporating scientific knowledge in ML including knowledge-guided `(KG)-Loss Functions`, `KG-Neural Architectures`, `KG-Pretraining`, and `Hybrid-Science-ML Modeling` (see [Publications](/publications/) for a categorization of papers in each theme). This has been possible thanks to the amazing collaborators I have been fortunate to work with from diverse scientific disciplines including *physics* (`fluid dynamics`, `quantum mechanics`, and `electromagnetism`), *environmental sciences* (`aquatic sciences`, `remote sensing`, and `geophysics`), and *biology* (`organismal biology`, `virology`, and `mechanobiology`) with support from NSF (see [Funding](/publications/) for a list of awards and collaborators).
 
-
-
-What is KGML. 
+To learn more about my research, visit the [KGML-Lab Website](https://kgml-lab.github.io/).
