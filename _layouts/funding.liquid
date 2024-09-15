@@ -1,0 +1,81 @@
+---
+layout: page
+---
+
+<p>
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to so that you can have a dedicated page for each course.
+
+Organize your courses by years, topics, or universities, however you like!
+a
+
+
+asdf a 
+</p>
+
+page.grants
+
+<div class="post">
+  <article>
+    {% if page.grants %}
+      {% for grant in page.grants %}
+      <div class="card mt-3 p-3">
+        <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
+          <tr>
+            <h3 class="post-title">
+              {{ grant.name }}
+            </h3>
+          </tr>
+          <tr>
+            <td class="p-1 pr-2 font-weight-bold">
+              <b>Title:</b>
+            </td>
+            <td class="p-1 pl-2 font-weight-light text">
+              {{ grant.title }}
+            </td>
+          </tr>
+          <tr>
+            <td class="p-1 pr-2 font-weight-bold">
+              <b>Duration:</b>
+            </td>
+            <td class="p-1 pl-2 font-weight-light text">
+              {{ grant.duration }}
+            </td>
+          </tr>
+          <tr>
+            <td class="p-1 pr-2 font-weight-bold">
+              <b>Role:</b>
+            </td>
+            <td class="p-1 pl-2 font-weight-light text">
+              {{ grant.role }}
+            </td>
+          </tr>
+          <tr>
+            <td class="p-1 pr-2 font-weight-bold">
+              <b>Institutions:</b>
+            </td>
+            <td class="p-1 pl-2 font-weight-light text">
+              {{ grant.institutions }}
+            </td>
+          </tr>
+          <tr>
+            <td class="p-1 pr-2 font-weight-bold">
+              <b>Collaborators:</b>
+            </td>
+            <td class="p-1 pl-2 font-weight-light text">
+              {{ grant.collaborators }}
+            </td>
+          </tr>
+          <tr>
+            <td class="p-1 pr-2 font-weight-bold">
+              <b>Summary:</b>
+            </td>
+            <td class="p-1 pl-2 font-weight-light text">
+              {{ grant.summary }}
+            </td>
+          </tr>
+        </table>
+      </div>  
+      {% endfor %}
+    {% endif %}
+  </article>
+</div>

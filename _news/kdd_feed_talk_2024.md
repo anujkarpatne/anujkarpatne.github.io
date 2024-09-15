@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-08-26 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+:studio_microphone: Gave a keynote talk at the [Fragile Earth: Generative and Foundational Models for Sustainable Development Workshop ](https://ai4good.org/fragile-earth-2024/) at KDD 2024.

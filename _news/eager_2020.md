@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-05-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+<img src="/assets/img/nsf-logo.png" alt="NSF" style="width:35px;"> Grateful to be part of a $198K NSF EAGER award as site PI on "Exploring Physics Guided Machine Learning for Accelerating Sensing and Physical Sciences" ([award abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026710)).
