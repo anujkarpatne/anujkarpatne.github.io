@@ -8,6 +8,10 @@ nav_order: 5
 ---
 
 ---
+## Bio
+Dr. Anuj Karpatne is an Associate Professor in the Department of Computer Science at Virginia Tech, where he develops data mining and machine learning methods to solve scientific and socially relevant problems. A key focus of Dr. Karpatne’s research is to advance the field of knowledge-guided machine learning for applications in several domains including climate science, hydrology, ecology, geophysics, trait-based biology, mechanobiology, quantum mechanics, and fluid dynamics. He received the NSF CAREEER Award in 2023, the Outstanding New Assistant Professor Award by the College of Engineering at VT in 2022, the Rising Star Faculty Award by the Department of Computer Science at VT in 2021, and the Inaugural Research Fellow by the IS-GEO Research Coordination Network in 2019. He currently serves as an Associate Editor for the ACM Transactions on Knowledge Discovery from Data (TKDD) journal. Dr. Karpatne is also a co-author of the second edition of the textbook, “Introduction to Data Mining”, and the lead editor of the first comprehensive book on “Knowledge-guided Machine Learning”.
+
+---
 ## Contact Details
 
 <div class="card mt-3 p-3">
