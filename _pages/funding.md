@@ -4,7 +4,7 @@ permalink: /funding/
 title: Funding
 description:
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 Here is a brief synopsis of the external grants I have been part of in collaboration with researchers from multiple institutions and disciplines (<span style="color:blue">CS: blue</span>, <span style="color:green;">outside CS: green</span>). To learn more about the research we are exploring in each project, please check the [Projects Page](https://kgml-lab.github.io/projects/) on the [KGML-Lab Website](https://kgml-lab.github.io/).
@@ -12,6 +12,64 @@ Here is a brief synopsis of the external grants I have been part of in collabora
 
 ---
 ## Current Grants
+
+<div class="card mt-3 p-3">
+  <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
+  <tr>
+      <h4 class="post-title">
+        $10M USDA Sustainable Agricultural Systems (SAS) Grant
+      </h4>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Title:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        Enabling Farmer Discovery and Managing Critical Tradeoffs with the Emergence of National Scale Carbon Markets
+      </td>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Duration:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        02/01/2025 &mdash; 01/31/2030
+      </td>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Role:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        Site PI for Virginia Tech (VT amount: $499K), KGML Co-lead
+      </td>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Collaborators:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        <b>Ohio State University:</b>   <span style="color:green">Brent Sohngen (Sustainability, Lead)</span>, <span style="color:green">Elena Irwin (Sustainability, Economics)</span>, <span style="color:green">Asmita Murumkar (Agriculture)</span>, <span style="color:green">Aaron Wilson (Climate Science)</span>, <span style="color:green">Robyn Wilson (Environment)</span>, <span style="color:green">Roger Williams (Forestry)</span>, <span style="color:blue">Andrew Perrault (CS)</span>
+        <br>
+        <b>Purdue:</b>   <span style="color:green">Tom Hertel (Economics)</span>, <span style="color:green">Jing Liu (Agricultural Economics)</span>
+        <br>
+        <b>Colorado State University:</b>   <span style="color:green">Francesca Cotrufo (Soil Sciences)</span>, <span style="color:green">Keith Paustian (Carbon Modeling)</span>
+        <br>
+        <b>Central State University:</b>   <span style="color:green">Sakthi Kumaran Subburayalu (Agriculture)</span>
+        <br>
+        <b>University of Minnesota:</b>   <span style="color:blue">Vipin Kumar (CS)</span>
+      </td>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>More Info:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        <a href="https://portal.nifa.usda.gov/web/crisprojectpages/1033369-enabling-farmer-discovery-and-managing-critical-tradeoffs-with-the-emergence-of-national-scale-carbon-markets.html" target="_blank">Award Abstract</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div class="card mt-3 p-3">
 	<table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
@@ -77,7 +135,7 @@ Here is a brief synopsis of the external grants I have been part of in collabora
 	<table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
 	<tr>
       <h4 class="post-title">
-        $586K NSF CAREER Grant
+        $596K NSF CAREER Grant
       </h4>
     </tr>
     <tr>
@@ -116,55 +174,6 @@ Here is a brief synopsis of the external grants I have been part of in collabora
 </div>
 
 
-<div class="card mt-3 p-3">
-	<table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
-	<tr>
-      <h4 class="post-title">
-        $1M NSF Preventive Intelligence for Pandemic Prevention (PIPP) Phase I Grant
-      </h4>
-    </tr>
-    <tr>
-      <td class="p-1 pr-2 font-weight-bold">
-        <b>Title:</b>
-      </td>
-      <td class="p-1 pl-2 font-weight-light text">
-        Community Informed Computational Prevention of Pandemics
-      </td>
-    </tr>
-    <tr>
-      <td class="p-1 pr-2 font-weight-bold">
-        <b>Duration:</b>
-      </td>
-      <td class="p-1 pl-2 font-weight-light text">
-        05/01/2022 &mdash; 10/31/2023
-      </td>
-    </tr>
-    <tr>
-      <td class="p-1 pr-2 font-weight-bold">
-        <b>Role:</b>
-      </td>
-      <td class="p-1 pl-2 font-weight-light text">
-        Co-Investigator
-      </td>
-    </tr>
-    <tr>
-      <td class="p-1 pr-2 font-weight-bold">
-        <b>Collaborators:</b>
-      </td>
-      <td class="p-1 pl-2 font-weight-light text">
-        <b>Virginia Tech:</b>  <span style="color:blue">T.M. Murali (CS, Lead)</span>, <span style="color:green">Sanket Deshmukh (Chem. Eng.)</span>, <span style="color:green">Kathy Hosig (Population Health)</span>, <span style="color:green"> Laura L. Hungerford (Population Health)</span>,  <span style="color:green">Lisa M. Lee (Medicine)</span>, <span style="color:green">Kristina Jiles (Public Health)</span>, <span style="color:green">X. J. Meng (Medicine)</span>, <span style="color:green">Padma Rajagopalan (Chem. Eng.)</span>, <span style="color:green">James Weger-Lucarelli (Biomedicine)</span>
-      </td>
-    </tr>
-    <tr>
-      <td class="p-1 pr-2 font-weight-bold">
-        <b>More Info:</b>
-      </td>
-      <td class="p-1 pl-2 font-weight-light text">
-        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2200045" target="_blank">Award Abstract</a>
-      </td>
-    </tr>
-	</table>
-</div>
 
 
 <div class="card mt-3 p-3">
@@ -220,49 +229,6 @@ Here is a brief synopsis of the external grants I have been part of in collabora
 </div>
 
 
-<div class="card mt-3 p-3">
-	<table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
-	<tr>
-      <h4 class="post-title">
-        $391K Naval Engineering Education Consortium (NEEC) Grant
-      </h4>
-    </tr>
-    <tr>
-      <td class="p-1 pr-2 font-weight-bold">
-        <b>Title:</b>
-      </td>
-      <td class="p-1 pl-2 font-weight-light text">
-        Seafloor Characterization From Free Fall Penetrometers Using Machine Learning
-      </td>
-    </tr>
-    <tr>
-      <td class="p-1 pr-2 font-weight-bold">
-        <b>Duration:</b>
-      </td>
-      <td class="p-1 pl-2 font-weight-light text">
-        04/01/2022 &mdash; 03/31/2025
-      </td>
-    </tr>
-    <tr>
-      <td class="p-1 pr-2 font-weight-bold">
-        <b>Role:</b>
-      </td>
-      <td class="p-1 pl-2 font-weight-light text">
-        Co-PI, ML Lead
-      </td>
-    </tr>
-    <tr>
-      <td class="p-1 pr-2 font-weight-bold">
-        <b>Collaborators:</b>
-      </td>
-      <td class="p-1 pl-2 font-weight-light text">
-        <b>Virginia Tech:</b>  <span style="color:green">Alba Yerro-Colom (GeoTech Eng., Lead)</span>, <span style="color:green">Adrian Rodriguez-Marek (GeoTech Eng.)</span>
-        <br>
-        <b>University of Florida:</b>  <span style="color:green">Nina Stark (Civil & Coastal Eng.)</span>
-      </td>
-    </tr>
-	</table>
-</div>
 
 
 <div class="card mt-3 p-3">
@@ -388,6 +354,101 @@ Here is a brief synopsis of the external grants I have been part of in collabora
 
 ---
 ## Past Grants
+
+<div class="card mt-3 p-3">
+  <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
+  <tr>
+      <h4 class="post-title">
+        $391K Naval Engineering Education Consortium (NEEC) Grant
+      </h4>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Title:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        Seafloor Characterization From Free Fall Penetrometers Using Machine Learning
+      </td>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Duration:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        04/01/2022 &mdash; 03/31/2025
+      </td>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Role:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        Co-PI, ML Lead
+      </td>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Collaborators:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        <b>Virginia Tech:</b>  <span style="color:green">Alba Yerro-Colom (GeoTech Eng., Lead)</span>, <span style="color:green">Adrian Rodriguez-Marek (GeoTech Eng.)</span>
+        <br>
+        <b>University of Florida:</b>  <span style="color:green">Nina Stark (Civil & Coastal Eng.)</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div class="card mt-3 p-3">
+  <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
+  <tr>
+      <h4 class="post-title">
+        $1M NSF Preventive Intelligence for Pandemic Prevention (PIPP) Phase I Grant
+      </h4>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Title:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        Community Informed Computational Prevention of Pandemics
+      </td>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Duration:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        05/01/2022 &mdash; 04/30/2025
+      </td>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Role:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        Co-Investigator
+      </td>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>Collaborators:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        <b>Virginia Tech:</b>  <span style="color:blue">T.M. Murali (CS, Lead)</span>, <span style="color:green">Sanket Deshmukh (Chem. Eng.)</span>, <span style="color:green">Kathy Hosig (Population Health)</span>, <span style="color:green"> Laura L. Hungerford (Population Health)</span>,  <span style="color:green">Lisa M. Lee (Medicine)</span>, <span style="color:green">Kristina Jiles (Public Health)</span>, <span style="color:green">X. J. Meng (Medicine)</span>, <span style="color:green">Padma Rajagopalan (Chem. Eng.)</span>, <span style="color:green">James Weger-Lucarelli (Biomedicine)</span>
+      </td>
+    </tr>
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold">
+        <b>More Info:</b>
+      </td>
+      <td class="p-1 pl-2 font-weight-light text">
+        <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2200045" target="_blank">Award Abstract</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div class="card mt-3 p-3">
 	<table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
