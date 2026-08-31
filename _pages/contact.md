@@ -1,4 +1,4 @@
----
+<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/343d254f-83a1-425f-b46f-505662327ca7" />---
 layout: page
 permalink: /contact/
 title: More Info
@@ -9,7 +9,8 @@ nav_order: 5
 
 ---
 ## Bio
-Dr. Anuj Karpatne is an Associate Professor in the Department of Computer Science at Virginia Tech (VT), where he also serves as a College of Engineering (COE) Faculty Fellow and Dean's Fellow. A key focus of Dr. Karpatne’s research is to advance the field of knowledge-guided machine learning for applications in several domains including climate science, hydrology, ecology, geophysics, trait-based biology, mechanobiology, quantum mechanics, and fluid dynamics. He received the Faculty Fellow award for Excellence in Research from COE at VT in 2025, NAIRR Pilot Award for which he was invited to speak at the White House in 2024, NSF CAREEER Award in 2023, the Outstanding New Assistant Professor Award by COE at VT in 2022, the Rising Star Faculty Award by the Department of Computer Science at VT in 2021, and the Inaugural Research Fellow by the IS-GEO Research Coordination Network in 2019. He currently serves as an Associate Editor for the ACM Transactions on Knowledge Discovery from Data (TKDD) journal. Dr. Karpatne is also a co-author of the second edition of the textbook, “Introduction to Data Mining”, and the lead editor of the first comprehensive book on “Knowledge-guided Machine Learning”.
+Dr. Anuj Karpatne is a Professor in the Department of Electrical and Computer Engineering at the University of Florida, where he also serves as the Assistant Director of the Artificial Intelligence and Informatics Research Institute. His research focuses on advancing knowledge-guided machine learning (KGML) to accelerate scientific discovery by integrating scientific knowledge with artificial intelligence. His work spans a broad range of scientific domains, including climate science, hydrology, ecology, geophysics, mechanobiology, trait-based biology, quantum mechanics, and fluid dynamics. Dr. Karpatne received the NSF CAREER Award in 2023, the National AI Research Resource (NAIRR) Pilot Award in 2024, for which he was invited to speak at the White House, and multiple research awards at Virginia Tech, including the Faculty Fellow Award for Excellence in Research (2025), the Outstanding New Assistant Professor Award (2022), the Rising Star Faculty Award (2021), and the IS-GEO Inaugural Research Fellow Award (2019). He serves as an Associate Editor for ACM Transactions on Knowledge Discovery from Data (TKDD) and is the lead editor of the first comprehensive book on Knowledge-Guided Machine Learning as well as a co-author of the second edition of the Introduction to Data Mining book. He completed his Ph.D. in Computer Science from the University of Minnesota with Prof. Vipin Kumar in 2017 and was a faculty member in the Department of Computer Science at Virginia Tech for 8 years before joining the University of Florida.
+
 
 ---
 ## Contact Details
@@ -21,7 +22,7 @@ Dr. Anuj Karpatne is an Associate Professor in the Department of Computer Scienc
         <b>Email Address:</b>
       </td>
       <td class="p-1 pl-2 font-weight-light text">
-        karpatne-AT-vt.edu
+        akarpatne-AT-ufl.edu
       </td>
     </tr>
     <tr>
@@ -29,9 +30,9 @@ Dr. Anuj Karpatne is an Associate Professor in the Department of Computer Scienc
         <b>Office Address:</b>
       </td>
       <td class="p-1 pl-2 font-weight-light text">
-        Data & Decisions Sciences Building Room 438,
+        3235 Malachowsky Hall,
         <br>
-        727 Prices Fork Rd, Blacksburg VA 24060
+        1889 Museum Road, Gainesville, FL 32611
       </td>
     </tr>
     <tr>
@@ -39,9 +40,9 @@ Dr. Anuj Karpatne is an Associate Professor in the Department of Computer Scienc
         <b>Mailing Address:</b>
       </td>
       <td class="p-1 pl-2 font-weight-light text">
-        Torgersen Hall Room 1160,
+        5000 Malachowsky Hall
         <br>
-        620 Drillfield Dr, Blacksburg VA 24061
+        1889 Museum Road, P.O. Box 116200, Gainesville, FL 32611
       </td>
     </tr>
 	</table>
@@ -51,7 +52,7 @@ Dr. Anuj Karpatne is an Associate Professor in the Department of Computer Scienc
 ---
 ## For Prospective Students
 
-Thank you for your interest in working with me. I am currently looking for undergraduate students who are already at VT or prospective PhD students. I am currently NOT in a position to take MS/MEng students. Please follow the following steps:
+I am currently looking for motivated undergraduate students who are already at UF or prospective PhD students. If you are interested in working with me, please follow the following steps:
 1. Check my lab's [webpage](https://kgml-lab.github.io/) to learn about our current research projects.
 2. Fill out the following survey: [https://forms.gle/3CUEa57bAo5fjceX8](https://forms.gle/3CUEa57bAo5fjceX8).
 3. Send me an email indicating that you have filled out the survey so that we can follow-up.
