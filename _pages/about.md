@@ -6,7 +6,7 @@ subtitle: AI &#8644; Science | Knowledge-guided ML
 
 profile:
   align: right
-  image: AK_VT_pic3.jpg
+  image: 2026_Karpatne_AK_UF_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
         
